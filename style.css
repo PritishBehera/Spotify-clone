@@ -82,7 +82,7 @@ a{
     width: 1.25rem;
 }
 .icons i{
-    opacity: 0.7;
+    opacity: 0.75;
     font-size: 1rem;
     margin: 0.25rem;
 }
@@ -172,7 +172,7 @@ a{
     width: 90%;
     height: 50%;
     border-top: 1px solid white;
-    opacity: 0.4;
+    opacity: 0.43;
 }
 .music-player{
     display:flex;

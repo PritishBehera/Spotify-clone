@@ -47,7 +47,7 @@ a{
     justify-content: center;
     height:center;
     height:100px;
-    padding:0.5rem 0.75rem;
+    padding:0.5rem 0.7rem;
     /* margin-bottom:.25rem; */
 }
 .nav-option{
@@ -59,7 +59,7 @@ a{
     opacity: 1;
 }
 .nav-option i{
-    font-size: 1.25rem;
+    font-size: 1.2rem;
 }
 .nav-option a{
     font-size: 1rem;
@@ -70,7 +70,7 @@ a{
     border-radius: 1rem;
     height:100vh;
     margin-top:0.5rem;
-    padding:0.5rem 0.75rem;
+    padding:0.5rem 0.7rem;
 }
 .option{
     display: flex;
@@ -82,7 +82,7 @@ a{
     width: 1.25rem;
 }
 .icons i{
-    opacity: 0.75;
+    opacity: 0.7;
     font-size: 1rem;
     margin: 0.25rem;
 }

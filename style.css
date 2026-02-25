@@ -26,7 +26,7 @@ body{
     flex:1;
     border-radius: 1rem;
     overflow: auto;
-    padding:0 1.5rem 0 1.5rem;
+    padding:0 1.52rem 0 1.52rem;
 }
 .music-player{
     background-color: black;
@@ -59,7 +59,7 @@ a{
     opacity: 1;
 }
 .nav-option i{
-    font-size: 1.2rem;
+    font-size: 1.21rem;
 }
 .nav-option a{
     font-size: 1rem;
@@ -110,7 +110,7 @@ a{
     border-radius:100px;
     padding:0.25rem 1rem;
     font-weight: 700;
-    margin-top:0.5rem;
+    margin-top:0.51rem;
     height:2rem;
     width:fit-content;
 }

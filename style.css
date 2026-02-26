@@ -47,7 +47,7 @@ a{
     justify-content: center;
     height:center;
     height:100px;
-    padding:0.5rem 0.7rem;
+    padding:0.5rem 0.71rem;
     /* margin-bottom:.25rem; */
 }
 .nav-option{
@@ -93,7 +93,7 @@ a{
     height: 8rem;
     background-color: #232323;
     border-radius: 0.75rem;
-    margin:0.75rem 0 1.75rem 0;
+    margin:0.75rem 0 1.7rem 0;
     padding:0.75rem 1rem;
 }
 .box-p1{
@@ -154,7 +154,7 @@ a{
 }
 .card-image{
     width: 100%;
-    border-radius: 0.5rem;
+    border-radius: 0.51rem;
 }
 .card-title{
     font-weight: 600;

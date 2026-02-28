@@ -47,7 +47,7 @@ a{
     justify-content: center;
     height:center;
     height:100px;
-    padding:0.5rem 0.71rem;
+    padding:0.5rem 0.7rem;
     /* margin-bottom:.25rem; */
 }
 .nav-option{
@@ -59,7 +59,7 @@ a{
     opacity: 1;
 }
 .nav-option i{
-    font-size: 1.21rem;
+    font-size: 1.2rem;
 }
 .nav-option a{
     font-size: 1rem;

@@ -19,14 +19,14 @@ body{
     background-color: black;
     width:340px;
     border-radius: 1rem;
-    margin-right: 0.5rem;
+    margin-right: 0.51rem;
 }
 .main-content{
     background-color:#121212;
     flex:1;
     border-radius: 1rem;
     overflow: auto;
-    padding:0 1.52rem 0 1.52rem;
+    padding:0 1.5rem 0 1.5rem;
 }
 .music-player{
     background-color: black;
@@ -94,7 +94,7 @@ a{
     background-color: #232323;
     border-radius: 0.75rem;
     margin:0.75rem 0 1.7rem 0;
-    padding:0.75rem 1rem;
+    padding:0.7rem 1rem;
 }
 .box-p1{
     font-size:1rem ;

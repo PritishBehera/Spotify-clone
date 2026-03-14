@@ -19,7 +19,7 @@ body{
     background-color: black;
     width:340px;
     border-radius: 1rem;
-    margin-right: 0.51rem;
+    margin-right: 0.5rem;
 }
 .main-content{
     background-color:#121212;
@@ -110,7 +110,7 @@ a{
     border-radius:100px;
     padding:0.25rem 1rem;
     font-weight: 700;
-    margin-top:0.51rem;
+    margin-top:0.5rem;
     height:2rem;
     width:fit-content;
 }
@@ -154,14 +154,14 @@ a{
 }
 .card-image{
     width: 100%;
-    border-radius: 0.51rem;
+    border-radius: 0.5rem;
 }
 .card-title{
     font-weight: 600;
 }
 .card-info{
     opacity: 0.8;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
 }
 .footer{
     height: 300px;

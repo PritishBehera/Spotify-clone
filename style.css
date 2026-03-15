@@ -12,14 +12,14 @@ body{
 .main{
     display:flex;
     height:100vh;
-    padding: 0.5rem;
+    padding: 0.51rem;
     background-color: black;
 }
 .sidebar{
     background-color: black;
     width:340px;
     border-radius: 1rem;
-    margin-right: 0.5rem;
+    margin-right: 0.51rem;
 }
 .main-content{
     background-color:#121212;
@@ -53,7 +53,7 @@ a{
 .nav-option{
     line-height: 2.0rem;
     opacity:0.7;
-    padding:0.5rem;
+    padding:0.51rem;
 }
 .nav-option:hover{
     opacity: 1;

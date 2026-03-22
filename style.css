@@ -53,7 +53,7 @@ a{
 .nav-option{
     line-height: 2.0rem;
     opacity:0.7;
-    padding:0.5rem;
+    padding:0.51rem;
 }
 .nav-option:hover{
     opacity: 1;
@@ -101,7 +101,7 @@ a{
     font-weight: 600;
 }
 .box-p2{
-    font-size:0.81rem;
+    font-size:0.8rem;
     opacity:0.9;
 }
 .badge{
@@ -193,7 +193,7 @@ a{
     height: 1rem;
     width: 1rem;
     margin-right: 1.5rem;
-    opacity: 0.7;
+    opacity: 0.71;
 }
 .player-control-icon:hover{
     opacity: 1;

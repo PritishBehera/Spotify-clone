@@ -93,7 +93,7 @@ a{
     height: 8rem;
     background-color: #232323;
     border-radius: 0.75rem;
-    margin:0.75rem 0 1.7rem 0;
+    margin:0.75rem 0 1.71rem 0;
     padding:0.7rem 1rem;
 }
 .box-p1{
@@ -101,7 +101,7 @@ a{
     font-weight: 600;
 }
 .box-p2{
-    font-size:0.8rem;
+    font-size:0.81rem;
     opacity:0.9;
 }
 .badge{
@@ -128,7 +128,7 @@ a{
     padding:1.25rem;
 }
 .nav-item{
-    margin-right:1.05rem;
+    margin-right:1.0rem;
 }
 .dark-badge{
     color:#fff;

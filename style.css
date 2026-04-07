@@ -70,7 +70,7 @@ a{
     border-radius: 1rem;
     height:100vh;
     margin-top:0.5rem;
-    padding:0.5rem 0.71rem;
+    padding:0.5rem 0.7rem;
 }
 .option{
     display: flex;
@@ -94,7 +94,7 @@ a{
     background-color: #232323;
     border-radius: 0.75rem;
     margin:0.75rem 0 1.7rem 0;
-    padding:0.7rem 1rem;
+    padding:0.71rem 1rem;
 }
 .box-p1{
     font-size:1rem ;

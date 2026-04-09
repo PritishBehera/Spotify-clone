@@ -101,7 +101,7 @@ a{
     font-weight: 600;
 }
 .box-p2{
-    font-size:0.81rem;
+    font-size:0.8rem;
     opacity:0.9;
 }
 .badge{
@@ -160,7 +160,7 @@ a{
     font-weight: 600;
 }
 .card-info{
-    opacity: 0.81;
+    opacity: 0.8;
     font-size: 0.8rem;
 }
 .footer{
@@ -247,7 +247,7 @@ a{
 }
 .cam{
     margin: 1rem;
-    margin-top: 2.55rem;
+    margin-top: 2.5rem;
     align-items: center;
 }
 .like-button{

@@ -94,7 +94,7 @@ a{
     background-color: #232323;
     border-radius: 0.75rem;
     margin:0.75rem 0 1.7rem 0;
-    padding:0.71rem 1rem;
+    padding:0.7rem 1rem;
 }
 .box-p1{
     font-size:1rem ;
@@ -172,7 +172,7 @@ a{
     width: 90%;
     height: 50%;
     border-top: 1px solid white;
-    opacity: 0.43;
+    opacity: 0.4;
 }
 .music-player{
     display:flex;
@@ -193,7 +193,7 @@ a{
     height: 1rem;
     width: 1rem;
     margin-right: 1.5rem;
-    opacity: 0.71;
+    opacity: 0.7;
 }
 .player-control-icon:hover{
     opacity: 1;

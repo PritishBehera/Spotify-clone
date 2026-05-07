@@ -84,7 +84,7 @@ a{
 .icons i{
     opacity: 0.71;
     font-size: 1rem;
-    margin: 0.25rem;
+    margin: 0.24rem;
 }
 .icons i:hover{
     opacity: 1;
@@ -102,7 +102,7 @@ a{
 }
 .box-p2{
     font-size:0.8rem;
-    opacity:0.8;
+    opacity:0.81;
 }
 .badge{
     background-color: #fff;
@@ -160,7 +160,7 @@ a{
     font-weight: 600;
 }
 .card-info{
-    opacity: 0.811;
+    opacity: 0.8;
     font-size: 0.8rem;
 }
 .footer{
